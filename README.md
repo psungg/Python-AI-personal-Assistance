@@ -142,7 +142,7 @@ pip install SpeechRecognition
 pip install PyAudio
 ```
 
-```{python}
+```python
 import speech_recognition as sr
 import pyttsx3
 import webbrowser
