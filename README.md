@@ -220,3 +220,6 @@ while True:
         speak("I'm doing great. I wish I can serve you best as your AI Personal Assistant")
     time.sleep(3)
 ```
+## Result
+
+![Fig01](https://github.com/psungg/Python-AI-personal-Assistance/blob/main/Images/Fig01.png)
